@@ -30,6 +30,6 @@ When trying to overcome an obstacle of any sort the GM will first determine whet
 
 However, there are many other times where the outcome is less certain. In these cases you must first decide how you are approaching the challenge by selecting one of your Attributes to use. You and the GM then agree on your best skill, if any, that applies to the challenge.
 
-The GM will then set the Difficulty Number for the challenge based on what Attribute you chose. Note some tasks may be harder or easier depending on your approach. Finally you roll a 1d20 and add both your Attribute and your Skill level. If it meets or exceeds the Difficulty Number then you succeed at what your were trying to accomplish. Otherwise you fail. The GM will narrate the results of either scenario.
+The GM will then set the Difficulty Number for the challenge based on what [Attribute](/attributes.md) you chose. Note some tasks may be harder or easier depending on your approach. Finally you roll a 1d20 and add both your Attribute and your Skill level. If it meets or exceeds the Difficulty Number then you succeed at what your were trying to accomplish. Otherwise you fail. The GM will narrate the results of either scenario.
 
 [Back To Main Page](/)

@@ -5,4 +5,6 @@ This project is for a yet unnamed homebrew tabletop rpg. This is a very WIP site
 ### Table of Contents
 
 * [Attributes](/attributes.md)
+* [Pillars](/pillars.md)
 * [Skills](/skills.md)
+* [Abilities](/abilities.md)
