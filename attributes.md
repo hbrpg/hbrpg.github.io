@@ -16,3 +16,5 @@ Zeal defines a character's force of personality and strength of belief. When fac
 
 ## Sense
 Sense is your ability to understand others and the world around you. You might use it to track a fleeing thief or spot a hidden trap. In a social situation you might use it tell when a shady guard is lying to you and then convince them to give up the location of a local safehouse.
+
+[Back To Main Page](/)
