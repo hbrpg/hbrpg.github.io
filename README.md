@@ -8,3 +8,5 @@ This project is for a yet unnamed homebrew tabletop rpg. This is a very WIP site
 * [Pillars](/pillars.md)
 * [Skills](/skills.md)
 * [Abilities](/abilities.md)
+* [Encounters](/encounters.md)
+  * [Conflict](/encounters/conflict.md)
