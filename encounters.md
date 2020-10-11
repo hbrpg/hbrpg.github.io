@@ -6,7 +6,7 @@ Every moment of gameplay happens within some type of encounter. These types are 
 ### Conflict
 **Conflict** encounters are the most rules-heavy type of encounter. It is used when turn based actions are needed. Most combats will take place here though you may also want to run some particularly tense social situations as conflict encounters.
 
-See the [conflict encounter](/encounters/conflict.md) page for more details on these.
+See the [Conflict](/encounters/conflict.md) encounter page for more details on these.
 
 ### Narrative
 **Narrative** encounters are the most common types of encounters and this mode is used when each action the players take is important but the order and timing of everything doesn't matter. You would often use a Narrative encounter while exploring a lost temple or casually talking to a guard.
