@@ -12,3 +12,7 @@ This project is for a yet unnamed homebrew tabletop rpg. This is a very WIP site
   * [Conflict](/encounters/conflict.md)
 * [Equipment](/equipment.md)
   * [Weapons](/equipment/weapons.md)
+
+
+## Examples
+* [Characters](/examples/characters.md)

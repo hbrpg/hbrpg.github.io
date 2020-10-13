@@ -1,7 +1,7 @@
 # Abilities
 Each character has a number of abilities that they can activate. These may represent everything from spells your character knows to a special sword technique they've mastered. Some basic abilities are available to everyone. Every other ability will be drawn from the [pillars](/pillars.md) your character has.
 
-Most abilities take an action to use (see the [encounter](/encounter.md) rules) and can be activated at any time. Some abilities may specify if there are special conditions that must be met before they can be used or whether you must make a roll as part of activating the ability.
+Most abilities take an action to use (see the [encounter](/encounters.md) rules) and can be activated at any time. Some abilities may specify if there are special conditions that must be met before they can be used or whether you must make a roll as part of activating the ability.
 
 ## Duration
 Abilities will be marked as **Instant** or **Continuous**. **Instant** abilities happen immediately while **Continuous** abilities will have some sort of ongoing effect.
