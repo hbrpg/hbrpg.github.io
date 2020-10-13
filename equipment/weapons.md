@@ -32,3 +32,5 @@ Weaponry takes many forms. You might wield a longsword or simple fire bolt for e
 * Attribute: Folk
 * Range: 5ft
 * Damage: 1d6
+
+[Back To Main Page](../)

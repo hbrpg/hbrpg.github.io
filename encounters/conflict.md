@@ -26,3 +26,5 @@ If you are unarmed you may still make an attack but your range is 5ft, you get n
 Every character has some amount of health. If for any reason you hit 0 health remaining you die. Any [Continuous Abilities](../abilities.html) you had immediately end.
 
 *Note: This is a temporary rule and will be changed to be less punishing Soon™*
+
+[Back To Main Page](../)

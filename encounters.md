@@ -22,3 +22,6 @@ Generally if you would be tempted to use an ability or take a specific action yo
 
 ## Transitioning Between Encounters
 Generally you can freely transition between any of the encounters as the story demands. **Conflict** encounters are special in that you will have to determine turn order anytime you enter one. See the [Conflict](/encounters/conflict.md) encounter rules for more details.
+
+
+[Back To Main Page](/)
