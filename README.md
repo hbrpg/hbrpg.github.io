@@ -4,7 +4,7 @@ This project is for a yet unnamed homebrew tabletop rpg. This is a very WIP site
 
 ### Table of Contents
 
-* [Basics of Play](/basic.md)
+* [Basics of Play](/basics.md)
 
 * [Attributes](/attributes.md)
 * [Pillars](/pillars.md)
